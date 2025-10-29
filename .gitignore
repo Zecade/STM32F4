@@ -14,8 +14,8 @@
 *.crf
 
 # RTE (Run-Time Environment) folders
-**/RTE/
-**/RTE/**/*
+**/RTE/**/
+
 RTE_Components.h
 *.d
 *.o
