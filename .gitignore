@@ -4,8 +4,8 @@
 
 # Keil MDK-ARM Project files
 *.uvguix.*
-*.uvoptx
-*.uvprojx
+# *.uvoptx
+# *.uvprojx
 *.scvd
 
 # Build output directories and files
