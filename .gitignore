@@ -11,7 +11,7 @@
 # Build output directories and files
 **/Objects/
 **/Listings/
-**/RET/
+**/RTE/
 *.crf
 *.d
 *.o
