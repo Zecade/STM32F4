@@ -1,0 +1,61 @@
+# VS Code settings
+.vscode/
+**/.vscode/
+
+# Keil MDK-ARM Project files
+*.uvguix.*
+*.uvoptx
+*.uvprojx
+*.scvd
+
+# Build output directories and files
+**/Objects/
+**/Listings/
+*.crf
+*.d
+*.o
+*.axf
+*.htm
+*.lnp
+*.map
+*.dep
+*.lst
+*.sct
+*.hex
+*.bin
+
+# Debug configurations
+**/DebugConfig/
+
+# JLink log files
+JLinkLog.txt
+JLinkSettings.ini
+
+# Backup files
+*.bak
+*.ddk
+*.edk
+*.lst
+*.lnp
+*.mpf
+*.mpj
+*.obj
+*.omf
+*.plg
+*.rpt
+*.tmp
+*.__i
+*.crf
+*.o
+*.d
+*.axf
+*.tra
+*.dep
+*.iex
+*.htm
+*.sct
+*.map
+
+# Operating System files
+.DS_Store
+Thumbs.db
