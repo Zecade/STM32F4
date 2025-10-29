@@ -11,8 +11,12 @@
 # Build output directories and files
 **/Objects/
 **/Listings/
-**/RTE/
 *.crf
+
+# RTE (Run-Time Environment) folders
+**/RTE/
+**/RTE/**/*
+RTE_Components.h
 *.d
 *.o
 *.axf
