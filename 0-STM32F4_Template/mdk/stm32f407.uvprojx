@@ -340,7 +340,7 @@
               <MiscControls></MiscControls>
               <Define>STM32F40_41xxx,USE_STDPERIPH_DRIVER,HSE_VALUE=8000000</Define>
               <Undefine></Undefine>
-              <IncludePath>..\firmware\cmsis\core;..\firmware\cmsis\device;..\firmware\driver\inc</IncludePath>
+              <IncludePath>..\app\inc;..\firmware\cmsis\core;..\firmware\cmsis\device;..\firmware\driver\inc;..\driver\Delay</IncludePath>
             </VariousControls>
           </Cads>
           <Aads>
